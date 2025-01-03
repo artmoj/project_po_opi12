@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\black_jack\\",
+  "WorkspaceRootPath": "C:\\laba12\\project_po_opi12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B05E8088-CA6C-4CCE-9A9D-8F32BDC4B369}|black_jack\\black_jack.vcxproj|C:\\black_jack\\black_jack\\game_form.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B05E8088-CA6C-4CCE-9A9D-8F32BDC4B369}|black_jack\\black_jack.vcxproj|C:\\laba12\\project_po_opi12\\black_jack\\game_form.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B05E8088-CA6C-4CCE-9A9D-8F32BDC4B369}|black_jack\\black_jack.vcxproj|solutionrelative:black_jack\\game_form.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B05E8088-CA6C-4CCE-9A9D-8F32BDC4B369}|black_jack\\black_jack.vcxproj|C:\\black_jack\\black_jack\\game_form.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B05E8088-CA6C-4CCE-9A9D-8F32BDC4B369}|black_jack\\black_jack.vcxproj|C:\\laba12\\project_po_opi12\\black_jack\\game_form.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B05E8088-CA6C-4CCE-9A9D-8F32BDC4B369}|black_jack\\black_jack.vcxproj|solutionrelative:black_jack\\game_form.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "game_form.h",
-              "DocumentMoniker": "C:\\black_jack\\black_jack\\game_form.h",
+              "DocumentMoniker": "C:\\laba12\\project_po_opi12\\black_jack\\game_form.h",
               "RelativeDocumentMoniker": "black_jack\\game_form.h",
-              "ToolTip": "C:\\black_jack\\black_jack\\game_form.h",
+              "ToolTip": "C:\\laba12\\project_po_opi12\\black_jack\\game_form.h",
               "RelativeToolTip": "black_jack\\game_form.h",
-              "ViewState": "AgIAAMAAAAAAAAAAAAAmwM0AAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-11T19:58:08.823Z",
               "EditorCaption": ""
@@ -37,23 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "game_form.cpp",
-              "DocumentMoniker": "C:\\black_jack\\black_jack\\game_form.cpp",
+              "DocumentMoniker": "C:\\laba12\\project_po_opi12\\black_jack\\game_form.cpp",
               "RelativeDocumentMoniker": "black_jack\\game_form.cpp",
-              "ToolTip": "C:\\black_jack\\black_jack\\game_form.cpp",
+              "ToolTip": "C:\\laba12\\project_po_opi12\\black_jack\\game_form.cpp",
               "RelativeToolTip": "black_jack\\game_form.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-11T19:54:57.696Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 274,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

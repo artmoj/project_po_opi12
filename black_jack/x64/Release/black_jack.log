@@ -1,3 +1,6 @@
 ﻿  game_form.cpp
+C:\laba12\project_po_opi12\black_jack\game_form.h(273,34): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "game_form.cpp")
+  
   game_form.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  black_jack.vcxproj -> C:\Users\fortn\Desktop\lab-master\lab-master\x64\Release\black_jack.exe
+  black_jack.vcxproj -> C:\laba12\project_po_opi12\x64\Release\black_jack.exe
